@@ -9,6 +9,14 @@
 
 ---
 
+## 📁 Project File  
+
+Due to file size limitations, the `.pbix` file is not included in this repository.
+
+You can explore the full interactive dashboard using the live link above.
+
+---
+
 ## 📌 Overview  
 
 **Business Insight 360** is an end-to-end Business Intelligence solution designed to provide a unified view across key business functions:
@@ -98,25 +106,6 @@ Developed a centralized Power BI dashboard integrating multiple datasets and bus
 - Designing dashboards with strong visual hierarchy  
 - Building scalable data models across multiple domains  
 - Applying business context to data visualization  
-
----
-
-## 📂 Repository Structure  
-
-business-insight-360-powerbi-dashboard/
-│
-├── Dashboard/
-│ └── Business_Insight_360.pbix
-│
-├── Screenshots/
-│ ├── thumbnail.png
-│ ├── executive_view.png
-│ ├── sales_view.png
-│ ├── marketing_view.png
-│ ├── supply_chain_view.png
-│ └── finance_view.png
-│
-└── README.md
 
 ---
 
